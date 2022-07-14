@@ -1,0 +1,9 @@
+
+.bg-custom{
+    background: linear-gradient(90deg,#d1aad7,#c88bc4 25.17%,#7b8fdd 50%,#86bff2 73.09%,#bbdef2);;
+     background-image: linear-gradient(90deg, rgb(209, 170, 215), rgb(200, 139, 196) 25.17%, rgb(123, 143, 221) 50%, rgb(134, 191, 242) 73.09%, rgb(187, 222, 242));
+    }
+
+
+//import bootstrap
+@import "./node_modules/bootstrap/scss/bootstrap";
