@@ -8,13 +8,15 @@
   background: rgb(23, 23, 23);
 }
 
-.bg-custom-gray {
-  background: rgb(23, 23, 23);
-}
-
 .display-title {
   font-size: 64px;
   font-weight: 600;
+}
+
+.text-custom {
+  background: linear-gradient(90deg, #d1aad7, #c88bc4 25.17%, #7b8fdd 50%, #86bff2 73.09%, #bbdef2);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
 }
 
 /*!
